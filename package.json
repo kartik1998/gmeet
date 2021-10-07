@@ -1,0 +1,28 @@
+{
+  "name": "meets",
+  "version": "1.0.0",
+  "description": "A cli tool to generate a meet link in the terminal on the fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartik1998/meet.git"
+  },
+  "keywords": [
+    "google",
+    "google-meets",
+    "video",
+    "meet"
+  ],
+  "author": "Kartik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartik1998/meet/issues"
+  },
+  "homepage": "https://github.com/kartik1998/meet#readme",
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
