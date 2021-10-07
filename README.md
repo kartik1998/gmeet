@@ -3,7 +3,7 @@ A cli tool to generate a meet link & get redirected to it via the terminal on th
 
 ## Usage
 
-* npx gmeet
+* `npx gmeet`
 * You could install it globally like: `npm install -g gmeet` & use `gmeet` to use it better.
 
 
