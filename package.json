@@ -1,6 +1,6 @@
 {
   "name": "gmeet",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "A cli tool to generate a meet link in the terminal on the fly",
   "main": "index.js",
   "scripts": {
