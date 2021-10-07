@@ -14,4 +14,6 @@ function computeGoogleMeetsLink() {
   return `${baseUrl}/${address}`;
 }
 
-open(computeGoogleMeetsLink());
+const url = computeGoogleMeetsLink();
+console.log(url)
+open(url);
