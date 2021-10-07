@@ -1,5 +1,5 @@
 {
-  "name": "meets",
+  "name": "gmeet",
   "version": "1.0.0",
   "description": "A cli tool to generate a meet link in the terminal on the fly",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kartik1998/meets.git"
+    "url": "git+https://github.com/kartik1998/meet.git"
   },
   "keywords": [
     "google",
@@ -19,9 +19,9 @@
   "author": "Kartik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kartik1998/meets/issues"
+    "url": "https://github.com/kartik1998/meet/issues"
   },
-  "homepage": "https://github.com/kartik1998/meets#readme",
+  "homepage": "https://github.com/kartik1998/meet#readme",
   "dependencies": {
     "open": "^8.2.1"
   }
