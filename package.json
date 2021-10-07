@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kartik1998/meet.git"
+    "url": "git+https://github.com/kartik1998/gmeet.git"
   },
   "keywords": [
     "google",
@@ -22,9 +22,9 @@
   "author": "Kartik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kartik1998/meet/issues"
+    "url": "https://github.com/kartik1998/gmeet/issues"
   },
-  "homepage": "https://github.com/kartik1998/meet#readme",
+  "homepage": "https://github.com/kartik1998/gmeet#readme",
   "dependencies": {
     "open": "^8.2.1"
   }
