@@ -4,7 +4,10 @@
   "description": "A cli tool to generate a meet link in the terminal on the fly",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "bin": {
+    "gmeet": "./index.js"
   },
   "repository": {
     "type": "git",
