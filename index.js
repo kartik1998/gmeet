@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const open = require("open");
 
 const baseUrl = "https://g.co/meet";
